@@ -1,10 +1,31 @@
 ## Zaapaa
 - At the end of IT studies (BEng (Poly), IT)
 - Looking for opportunities
-- Currently working on AI things and personal game projects
+- Currently learning Unity game development
 ---
 ### Portfolio
-
+<table style="width: 100%;">
+  <!-- Simple TD -->
+  <tr>
+    <td style="width: 75%; padding: 1em;">
+      <h4>Simple TD</h4>
+      <p><b>When:</b> Jan-Feb 2026<br>
+        <b>Who:</b> Solo Project<br>
+        <b>What:</b> 3D top-down tower defense<br>
+        <b>Game info:</b> Build walls and towers to prevent enemies from reaching the end. <br>
+        <b>Role/skills:</b> Unity, Game Design, C#</p>
+        <a href="https://github.com/zaapaa/Simple-TD">More info and source code</a><br><br>
+        <a href="https://play.unity.com/en/games/71b936c7-8750-4738-8135-10acf66347c4/simpletd">Play now!</a>
+    </td>
+    <td style="width: 15%; padding: 1em;">
+      <a href="https://github.com/user-attachments/assets/df04f8ca-2ccb-48bb-8261-285749ce6797" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/df04f8ca-2ccb-48bb-8261-285749ce6797" alt="TinyTongue" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+      </a>
+    </td>
+  </tr>
+</table>
+<details>
+<summary><h2>Old stuff</h2></summary>
 <table style="width: 100%;">
   <!-- Tiny Tongue -->
   <tr>
@@ -173,6 +194,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 <!--
 **zaapaa/zaapaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
