@@ -5,6 +5,23 @@
 ---
 ### Portfolio
 <table style="width: 100%;">
+  <!-- SandGame -->
+  <tr>
+    <td style="width: 75%; padding: 1em;">
+      <h4>Simple TD</h4>
+      <p><b>When:</b> 2026 <br>
+        <b>Who:</b> Solo Project<br>
+        <b>What:</b> Falling sand simulation with reactions, explosions and more<br>
+        <b>Game info:</b> Play around with different materials and explore their reactions <br>
+        <b>Role/skills:</b> Unity, C#, Compute Shaders, Graphs</p>
+        <a href="https://github.com/zaapaa/SandGame">More info</a><br><br>
+    </td>
+    <td style="width: 15%; padding: 1em;">
+      <a href="https://github.com/user-attachments/assets/5ec8c969-6ad7-4fbb-bb42-9485e126a9fc" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/5ec8c969-6ad7-4fbb-bb42-9485e126a9fc" alt="SandGame" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+      </a>
+    </td>
+  </tr>
   <!-- Simple TD -->
   <tr>
     <td style="width: 75%; padding: 1em;">
@@ -19,7 +36,7 @@
     </td>
     <td style="width: 15%; padding: 1em;">
       <a href="https://github.com/user-attachments/assets/df04f8ca-2ccb-48bb-8261-285749ce6797" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/df04f8ca-2ccb-48bb-8261-285749ce6797" alt="TinyTongue" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+        <img src="https://github.com/user-attachments/assets/df04f8ca-2ccb-48bb-8261-285749ce6797" alt="SimpleTD" style="width: 100%; height: auto; display: block; margin: 0 auto;">
       </a>
     </td>
   </tr>
