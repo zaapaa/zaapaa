@@ -1,7 +1,7 @@
 ## Zaapaa
 - At the end of IT studies (BEng (Poly), IT)
 - Looking for opportunities
-- Currently learning Unity game development
+- Learning AI
 ---
 ### Portfolio
 <table style="width: 100%;">
